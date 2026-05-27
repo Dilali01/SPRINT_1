@@ -1,0 +1,16 @@
+All Patients:
+Patient ID: P101, Name: Allan, Age: 22, Disease: Malaria
+
+All Doctors:
+Doctor ID: D201, Name: Dr. James, Age: 40, Specialization: General Medicine
+
+Appointment Details:
+Appointment Date: 25 April 2026
+Patient: Allan
+Doctor: Dr. James
+
+Health Analysis:
+Health Record for Allan
+Blood Pressure: 120/80
+Sugar Level: 150
+Status: High Sugar Level
